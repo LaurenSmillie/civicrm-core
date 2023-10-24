@@ -1,0 +1,21 @@
+.crm-search-display-pager ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .crm-search-display-pager li {
+      float: left;
+  }
+  .crm-search-display-pager li a {
+      display: inline-block;
+      text-align: center;
+      padding: 6px 10px;
+      text-decoration: none;
+      border-style: solid;
+      background-color: rgb(255, 255, 255);
+      border-radius: 2px;
+  }
+    
+  .crm-search-display-pager li a:hover {
+      background-color: #c9c9c9;
+  }

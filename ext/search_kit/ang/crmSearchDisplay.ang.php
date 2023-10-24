@@ -11,6 +11,7 @@ return [
   ],
   'css' => [
     'css/crmSearchDisplay.css',
+    'css/crmSearchDisplayPager.css',
   ],
   'basePages' => [],
   'requires' => ['api4', 'ngSanitize'],
